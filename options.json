@@ -1,0 +1,132 @@
+{
+  "shot_add": {
+    "name": "에스프레소 샷 추가",
+    "aliases": ["샷 추가", "샷 하나 더", "진하게", "샷 더"],
+    "price": 800,
+    "type": "count",
+    "applicable": ["커피", "디카페인"]
+  },
+  "shot_weak": {
+    "name": "샷 연하게",
+    "aliases": ["연하게", "샷 약하게", "연하게 해줘"],
+    "price": 0,
+    "type": "select",
+    "applicable": ["커피", "디카페인"]
+  },
+  "syrup_vanilla": {
+    "name": "바닐라시럽",
+    "aliases": ["바닐라 시럽", "바닐라향", "바닐라 추가"],
+    "price": 800,
+    "type": "toggle",
+    "applicable": ["커피", "디카페인"]
+  },
+  "syrup_hazelnut": {
+    "name": "헤이즐넛시럽",
+    "aliases": ["헤이즐넛", "헤이즐넛 시럽", "헤이즐넛 추가"],
+    "price": 800,
+    "type": "toggle",
+    "applicable": ["커피", "디카페인"]
+  },
+  "syrup_caramel": {
+    "name": "카라멜시럽",
+    "aliases": ["카라멜 시럽", "카라멜 추가", "달달하게"],
+    "price": 800,
+    "type": "toggle",
+    "applicable": ["커피", "디카페인"]
+  },
+  "whipping": {
+    "name": "휘핑크림",
+    "aliases": ["휘핑 추가", "휘핑 올려줘", "크림 추가", "휘핑크림 추가"],
+    "price": 800,
+    "type": "toggle",
+    "applicable": ["커피", "디카페인", "티", "음료"]
+  },
+  "water_amount": {
+    "name": "물 조절",
+    "aliases": ["물 많이", "물 적게", "물 빼고", "물 없이", "물 보통"],
+    "price": 0,
+    "type": "select",
+    "options": ["많이", "보통", "적게", "없이(빼고)"],
+    "applicable": ["커피", "디카페인"]
+  },
+  "ice_amount": {
+    "name": "얼음량",
+    "aliases": ["얼음 많이", "얼음 적게", "얼음 빼고", "얼음 없이", "얼음 보통"],
+    "price": 0,
+    "type": "select",
+    "options": ["많이", "보통", "적게", "없이(빼고)"],
+    "applicable": ["커피", "디카페인", "티", "음료", "에이드", "주스"]
+  },
+  "bubble": {
+    "name": "버블 추가",
+    "aliases": ["버블", "타피오카", "펄 추가", "버블 추가"],
+    "price": 700,
+    "type": "toggle",
+    "applicable": ["커피", "디카페인", "티", "음료"]
+  },
+  "milk_soy": {
+    "name": "두유 변경",
+    "aliases": ["두유", "두유로 바꿔줘", "두유 우유"],
+    "price": 0,
+    "type": "select",
+    "applicable": ["커피", "디카페인", "티"]
+  },
+  "milk_low_fat": {
+    "name": "저지방 우유 변경",
+    "aliases": ["저지방", "저지방 우유"],
+    "price": 0,
+    "type": "select",
+    "applicable": ["커피", "디카페인", "티"]
+  },
+  "milk_no_fat": {
+    "name": "무지방 우유 변경",
+    "aliases": ["무지방", "무지방 우유"],
+    "price": 0,
+    "type": "select",
+    "applicable": ["커피", "디카페인", "티"]
+  },
+  "milk_lactofree": {
+    "name": "락토프리 우유 변경",
+    "aliases": ["락토프리", "유당 없이"],
+    "price": 0,
+    "type": "select",
+    "applicable": ["커피", "디카페인", "티"]
+  },
+  "milk_oat": {
+    "name": "오트 변경",
+    "aliases": ["오트", "귀리", "오트밀크", "귀리 우유"],
+    "price": 600,
+    "type": "select",
+    "applicable": ["커피", "디카페인", "티"]
+  },
+  "drizzle_caramel": {
+    "name": "카라멜드리즐",
+    "aliases": ["카라멜 드리즐", "카라멜 소스"],
+    "price": 800,
+    "type": "toggle",
+    "applicable": ["커피", "디카페인"]
+  },
+  "drizzle_chocolate": {
+    "name": "초콜릿드리즐",
+    "aliases": ["초콜릿 드리즐", "초코 소스", "초코 드리즐"],
+    "price": 800,
+    "type": "toggle",
+    "applicable": ["커피", "디카페인", "티"]
+  },
+  "sweetness": {
+    "name": "당도 조절",
+    "aliases": ["더 달게", "덜 달게", "당도 보통", "달게", "달지 않게", "당도 낮게", "당도 높게"],
+    "price": 0,
+    "type": "select",
+    "options": ["더 달게", "당도 보통", "덜 달게"],
+    "applicable": ["커피", "디카페인", "티", "음료", "에이드"]
+  },
+  "foam_amount": {
+    "name": "거품량 조절",
+    "aliases": ["거품 많이", "거품 적게", "거품 없이", "거품 보통"],
+    "price": 0,
+    "type": "select",
+    "options": ["많이", "보통", "적게", "없이"],
+    "applicable": ["커피", "디카페인"]
+  }
+}

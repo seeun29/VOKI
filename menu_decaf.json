@@ -1,0 +1,122 @@
+[
+  {
+    "id": 101,
+    "name": "디카페인아메리카노",
+    "aliases": ["디카페인 아메", "디카 아메", "카페인없는 아메리카노"],
+    "category": "디카페인",
+    "temperature": ["ICE", "HOT"],
+    "sizes": { "ICE": ["R", "L", "M"], "HOT": ["R", "L"] },
+    "price": { "R": 5200, "L": 5800, "M": 6400 },
+    "default_size": "R"
+  },
+  {
+    "id": 102,
+    "name": "디카페인카페라떼",
+    "aliases": ["디카페인 라떼", "디카 라떼", "카페인없는 라떼"],
+    "category": "디카페인",
+    "temperature": ["ICE", "HOT"],
+    "sizes": { "ICE": ["R", "L", "M"], "HOT": ["R", "L"] },
+    "price": { "R": 5700, "L": 6300, "M": 6900 },
+    "default_size": "R"
+  },
+  {
+    "id": 103,
+    "name": "디카페인바닐라라떼",
+    "aliases": ["디카페인 바닐라", "디카 바닐라라떼"],
+    "category": "디카페인",
+    "temperature": ["ICE", "HOT"],
+    "sizes": { "ICE": ["R", "L", "M"], "HOT": ["R", "L"] },
+    "price": { "R": 6200, "L": 6800, "M": 7400 },
+    "default_size": "R"
+  },
+  {
+    "id": 104,
+    "name": "디카페인카페모카",
+    "aliases": ["디카페인 모카", "디카 모카"],
+    "category": "디카페인",
+    "temperature": ["ICE", "HOT"],
+    "sizes": { "ICE": ["R", "L", "M"], "HOT": ["R", "L"] },
+    "price": { "R": 6200, "L": 6800, "M": 7400 },
+    "default_size": "R"
+  },
+  {
+    "id": 105,
+    "name": "디카페인카라멜마끼아또",
+    "aliases": ["디카페인 카마", "디카 카라멜"],
+    "category": "디카페인",
+    "temperature": ["ICE", "HOT"],
+    "sizes": { "ICE": ["R", "L", "M"], "HOT": ["R", "L"] },
+    "price": { "R": 6600, "L": 7200, "M": 7800 },
+    "default_size": "R"
+  },
+  {
+    "id": 106,
+    "name": "디카페인스페니쉬연유라떼",
+    "aliases": ["디카페인 연유라떼", "디카 연유"],
+    "category": "디카페인",
+    "temperature": ["ICE", "HOT"],
+    "sizes": { "ICE": ["R", "L", "M"], "HOT": ["R", "L"] },
+    "price": { "R": 6500, "L": 7100, "M": 7700 },
+    "default_size": "R"
+  },
+  {
+    "id": 107,
+    "name": "디카페인달고나라떼",
+    "aliases": ["디카페인 달고나"],
+    "category": "디카페인",
+    "temperature": ["ICE", "HOT"],
+    "sizes": { "ICE": ["R", "L", "M"], "HOT": ["R", "L"] },
+    "price": { "R": 6700, "L": 7300, "M": 7900 },
+    "default_size": "R"
+  },
+  {
+    "id": 108,
+    "name": "디카페인바닐라빈라떼",
+    "aliases": ["디카페인 바닐라빈", "디카 바닐라빈"],
+    "category": "디카페인",
+    "temperature": ["ICE", "HOT"],
+    "sizes": { "ICE": ["R", "L", "M"], "HOT": ["R", "L"] },
+    "price": { "R": 6500, "L": 7100, "M": 7700 },
+    "default_size": "R"
+  },
+  {
+    "id": 109,
+    "name": "디카페인콜드브루",
+    "aliases": ["디카페인 콜드브루", "디카 콜드브루"],
+    "category": "디카페인",
+    "temperature": ["ICE"],
+    "sizes": { "ICE": ["R", "L"] },
+    "price": { "R": 5600, "L": 6200 },
+    "default_size": "R"
+  },
+  {
+    "id": 110,
+    "name": "디카페인콜드브루라떼",
+    "aliases": ["디카페인 콜브라떼"],
+    "category": "디카페인",
+    "temperature": ["ICE"],
+    "sizes": { "ICE": ["R", "L"] },
+    "price": { "R": 6100, "L": 6700 },
+    "default_size": "R"
+  },
+  {
+    "id": 111,
+    "name": "디카페인오트화이트라떼",
+    "aliases": ["오트라떼", "디카 오트", "오트밀 라떼"],
+    "category": "디카페인",
+    "temperature": ["ICE", "HOT"],
+    "sizes": { "ICE": ["R", "L", "M"], "HOT": ["R", "L"] },
+    "price": { "R": 5800, "L": 6400, "M": 7000 },
+    "default_size": "R"
+  },
+  {
+    "id": 112,
+    "name": "디카페인콜드브루크림라떼",
+    "aliases": ["디카 크림라떼", "콜드브루 크림"],
+    "category": "디카페인",
+    "temperature": ["ICE"],
+    "sizes": { "ICE": ["R", "L"] },
+    "price": { "R": 6200, "L": 6800 },
+    "default_size": "R"
+  }
+]

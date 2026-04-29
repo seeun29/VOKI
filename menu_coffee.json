@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "아메리카노",
+    "aliases": ["아메", "아아", "아메리카노", "블랙커피"],
+    "category": "커피",
+    "temperature": ["ICE", "HOT"],
+    "sizes": { "ICE": ["R", "L", "M"], "HOT": ["R", "L"] },
+    "price": { "R": 4700, "L": 5300, "M": 5900 },
+    "default_size": "R"
+  },
+  {
+    "id": 2,
+    "name": "카페라떼",
+    "aliases": ["라떼", "커피우유", "카페 라떼"],
+    "category": "커피",
+    "temperature": ["ICE", "HOT"],
+    "sizes": { "ICE": ["R", "L", "M"], "HOT": ["R", "L"] },
+    "price": { "R": 5200, "L": 5800, "M": 6400 },
+    "default_size": "R"
+  },
+  {
+    "id": 3,
+    "name": "바닐라라떼",
+    "aliases": ["바닐라", "바닐라 라떼", "바라"],
+    "category": "커피",
+    "temperature": ["ICE", "HOT"],
+    "sizes": { "ICE": ["R", "L", "M"], "HOT": ["R", "L"] },
+    "price": { "R": 5700, "L": 6300, "M": 6900 },
+    "default_size": "R"
+  },
+  {
+    "id": 4,
+    "name": "카페모카",
+    "aliases": ["모카", "카페 모카", "초코라떼"],
+    "category": "커피",
+    "temperature": ["ICE", "HOT"],
+    "sizes": { "ICE": ["R", "L", "M"], "HOT": ["R", "L"] },
+    "price": { "R": 5700, "L": 6300, "M": 6900 },
+    "default_size": "R"
+  },
+  {
+    "id": 5,
+    "name": "카라멜마끼아또",
+    "aliases": ["카라멜", "마끼아또", "카마"],
+    "category": "커피",
+    "temperature": ["ICE", "HOT"],
+    "sizes": { "ICE": ["R", "L", "M"], "HOT": ["R", "L"] },
+    "price": { "R": 6100, "L": 6700, "M": 7300 },
+    "default_size": "R"
+  },
+  {
+    "id": 6,
+    "name": "스페니쉬연유라떼",
+    "aliases": ["연유라떼", "스페니쉬 연유", "연유"],
+    "category": "커피",
+    "temperature": ["ICE", "HOT"],
+    "sizes": { "ICE": ["R", "L", "M"], "HOT": ["R", "L"] },
+    "price": { "R": 6000, "L": 6600, "M": 7200 },
+    "default_size": "R"
+  },
+  {
+    "id": 7,
+    "name": "달고나라떼",
+    "aliases": ["달고나", "달고나 라떼"],
+    "category": "커피",
+    "temperature": ["ICE", "HOT"],
+    "sizes": { "ICE": ["R", "L", "M"], "HOT": ["R", "L"] },
+    "price": { "R": 6200, "L": 6800, "M": 7400 },
+    "default_size": "R"
+  },
+  {
+    "id": 8,
+    "name": "바닐라빈라떼",
+    "aliases": ["바닐라빈", "바닐라 빈 라떼"],
+    "category": "커피",
+    "temperature": ["ICE", "HOT"],
+    "sizes": { "ICE": ["R", "L", "M"], "HOT": ["R", "L"] },
+    "price": { "R": 6000, "L": 6600, "M": 7200 },
+    "default_size": "R"
+  },
+  {
+    "id": 9,
+    "name": "바나나샷라떼",
+    "aliases": ["바나나라떼", "바나나 샷", "바나나"],
+    "category": "커피",
+    "temperature": ["ICE", "HOT"],
+    "sizes": { "ICE": ["R", "L", "M"], "HOT": ["R", "L"] },
+    "price": { "R": 5700, "L": 6300, "M": 6900 },
+    "default_size": "R"
+  },
+  {
+    "id": 10,
+    "name": "바나나샷아메리카노",
+    "aliases": ["바나나 아메", "바나나아메리카노"],
+    "category": "커피",
+    "temperature": ["ICE"],
+    "sizes": { "ICE": ["L", "M"] },
+    "price": { "L": 6000, "M": 6600 },
+    "default_size": "L"
+  },
+  {
+    "id": 11,
+    "name": "콜드브루",
+    "aliases": ["콜드 브루", "콜브", "더치커피"],
+    "category": "커피",
+    "temperature": ["ICE"],
+    "sizes": { "ICE": ["R", "L"] },
+    "price": { "R": 5100, "L": 5700 },
+    "default_size": "R"
+  },
+  {
+    "id": 12,
+    "name": "콜드브루라떼",
+    "aliases": ["콜드브루 라떼", "콜브라떼"],
+    "category": "커피",
+    "temperature": ["ICE"],
+    "sizes": { "ICE": ["R", "L"] },
+    "price": { "R": 5600, "L": 6200 },
+    "default_size": "R"
+  },
+  {
+    "id": 13,
+    "name": "바닐라빈콜드브루라떼",
+    "aliases": ["바닐라빈 콜드브루", "바닐라 콜드브루"],
+    "category": "커피",
+    "temperature": ["ICE"],
+    "sizes": { "ICE": ["R", "L"] },
+    "price": { "R": 6100, "L": 6700 },
+    "default_size": "R"
+  },
+  {
+    "id": 14,
+    "name": "피치아샷추",
+    "aliases": ["피치 아샷추", "복숭아 아샷추"],
+    "category": "커피",
+    "temperature": ["ICE"],
+    "sizes": { "ICE": ["M"] },
+    "price": { "M": 5700 },
+    "default_size": "M"
+  },
+  {
+    "id": 15,
+    "name": "애플아샷추",
+    "aliases": ["애플 아샷추", "사과 아샷추"],
+    "category": "커피",
+    "temperature": ["ICE"],
+    "sizes": { "ICE": ["M"] },
+    "price": { "M": 5700 },
+    "default_size": "M"
+  },
+  {
+    "id": 16,
+    "name": "민트아샷추",
+    "aliases": ["민트 아샷추"],
+    "category": "커피",
+    "temperature": ["ICE"],
+    "sizes": { "ICE": ["M"] },
+    "price": { "M": 5700 },
+    "default_size": "M"
+  }
+]

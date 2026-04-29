@@ -1,0 +1,302 @@
+[
+  {
+    "id": 201,
+    "name": "애플망고피치프라페",
+    "aliases": ["망고 프라페", "애플망고 프라페", "망고피치"],
+    "category": "프라페",
+    "temperature": ["ICE"],
+    "sizes": { "ICE": ["R", "L"] },
+    "price": { "R": 6800, "L": 7400 },
+    "default_size": "R"
+  },
+  {
+    "id": 202,
+    "name": "스트로베리피치프라페",
+    "aliases": ["딸기 프라페", "딸기피치 프라페"],
+    "category": "프라페",
+    "temperature": ["ICE"],
+    "sizes": { "ICE": ["R", "L"] },
+    "price": { "R": 6500, "L": 7100 },
+    "default_size": "R"
+  },
+  {
+    "id": 203,
+    "name": "커피쿠키프라페",
+    "aliases": ["쿠키 프라페", "커피프라페"],
+    "category": "프라페",
+    "temperature": ["ICE"],
+    "sizes": { "ICE": ["R", "L"] },
+    "price": { "R": 6500, "L": 7100 },
+    "default_size": "R"
+  },
+  {
+    "id": 204,
+    "name": "요거트프라페",
+    "aliases": ["요거트 프라페"],
+    "category": "프라페",
+    "temperature": ["ICE"],
+    "sizes": { "ICE": ["R", "L"] },
+    "price": { "R": 5800, "L": 6400 },
+    "default_size": "R"
+  },
+  {
+    "id": 205,
+    "name": "민트초코프라페",
+    "aliases": ["민트초코 프라페", "민트 프라페"],
+    "category": "프라페",
+    "temperature": ["ICE"],
+    "sizes": { "ICE": ["R", "L"] },
+    "price": { "R": 5800, "L": 6400 },
+    "default_size": "R"
+  },
+  {
+    "id": 206,
+    "name": "바닐라밀크쉐이크",
+    "aliases": ["바닐라 쉐이크", "밀크쉐이크"],
+    "category": "쉐이크",
+    "temperature": ["ICE"],
+    "sizes": { "ICE": ["R", "L"] },
+    "price": { "R": 6000, "L": 6600 },
+    "default_size": "R"
+  },
+  {
+    "id": 207,
+    "name": "쿠키쉐이크",
+    "aliases": ["쿠키 쉐이크"],
+    "category": "쉐이크",
+    "temperature": ["ICE"],
+    "sizes": { "ICE": ["R", "L"] },
+    "price": { "R": 6300, "L": 6900 },
+    "default_size": "R"
+  },
+  {
+    "id": 208,
+    "name": "밀크티쉐이크",
+    "aliases": ["밀크티 쉐이크"],
+    "category": "쉐이크",
+    "temperature": ["ICE"],
+    "sizes": { "ICE": ["R", "L"] },
+    "price": { "R": 6500, "L": 7100 },
+    "default_size": "R"
+  },
+  {
+    "id": 209,
+    "name": "아이스버블그린티라떼",
+    "aliases": ["버블 그린티", "버블녹차", "버블 라떼"],
+    "category": "음료",
+    "temperature": ["ICE"],
+    "sizes": { "ICE": ["R", "L"] },
+    "price": { "R": 5900, "L": 6500 },
+    "default_size": "R"
+  },
+  {
+    "id": 210,
+    "name": "자몽에이드",
+    "aliases": ["자몽", "자몽 에이드"],
+    "category": "에이드",
+    "temperature": ["ICE"],
+    "sizes": { "ICE": ["L", "M"] },
+    "price": { "L": 6300, "M": 6900 },
+    "default_size": "L"
+  },
+  {
+    "id": 211,
+    "name": "오렌지에이드",
+    "aliases": ["오렌지", "오렌지 에이드"],
+    "category": "에이드",
+    "temperature": ["ICE"],
+    "sizes": { "ICE": ["L", "M"] },
+    "price": { "L": 6300, "M": 6900 },
+    "default_size": "L"
+  },
+  {
+    "id": 212,
+    "name": "복숭아에이드",
+    "aliases": ["복숭아", "피치에이드", "복숭아 에이드"],
+    "category": "에이드",
+    "temperature": ["ICE"],
+    "sizes": { "ICE": ["L", "M"] },
+    "price": { "L": 6300, "M": 6900 },
+    "default_size": "L"
+  },
+  {
+    "id": 213,
+    "name": "샤인머스캣청포도에이드",
+    "aliases": ["샤인머스캣", "청포도 에이드", "포도에이드"],
+    "category": "에이드",
+    "temperature": ["ICE"],
+    "sizes": { "ICE": ["L", "M"] },
+    "price": { "L": 6500, "M": 7100 },
+    "default_size": "L"
+  },
+  {
+    "id": 214,
+    "name": "허니레몬에이드",
+    "aliases": ["레몬에이드", "허니레몬 에이드"],
+    "category": "에이드",
+    "temperature": ["ICE"],
+    "sizes": { "ICE": ["L", "M"] },
+    "price": { "L": 5800, "M": 6400 },
+    "default_size": "L"
+  },
+  {
+    "id": 215,
+    "name": "제주한라봉주스",
+    "aliases": ["한라봉", "한라봉 주스"],
+    "category": "주스",
+    "temperature": ["ICE"],
+    "sizes": { "ICE": ["R", "L"] },
+    "price": { "R": 6500, "L": 7100 },
+    "default_size": "R"
+  },
+  {
+    "id": 216,
+    "name": "애플망고주스",
+    "aliases": ["망고주스", "애플망고 주스"],
+    "category": "주스",
+    "temperature": ["ICE"],
+    "sizes": { "ICE": ["R", "L"] },
+    "price": { "R": 6500, "L": 7100 },
+    "default_size": "R"
+  },
+  {
+    "id": 217,
+    "name": "복숭아주스",
+    "aliases": ["피치주스", "복숭아 주스"],
+    "category": "주스",
+    "temperature": ["ICE"],
+    "sizes": { "ICE": ["R", "L"] },
+    "price": { "R": 6000, "L": 6600 },
+    "default_size": "R"
+  },
+  {
+    "id": 218,
+    "name": "홍시주스",
+    "aliases": ["홍시", "감 주스"],
+    "category": "주스",
+    "temperature": ["ICE"],
+    "sizes": { "ICE": ["R", "L"] },
+    "price": { "R": 5800, "L": 6400 },
+    "default_size": "R"
+  },
+  {
+    "id": 219,
+    "name": "오렌지자몽주스",
+    "aliases": ["오렌지자몽", "자몽오렌지 주스"],
+    "category": "주스",
+    "temperature": ["ICE"],
+    "sizes": { "ICE": ["L"] },
+    "price": { "L": 6300 },
+    "default_size": "L"
+  },
+  {
+    "id": 220,
+    "name": "키위바나나주스",
+    "aliases": ["키위바나나", "바나나키위"],
+    "category": "주스",
+    "temperature": ["ICE"],
+    "sizes": { "ICE": ["L"] },
+    "price": { "L": 5800 },
+    "default_size": "L"
+  },
+  {
+    "id": 221,
+    "name": "블루베리요거트드링크",
+    "aliases": ["블루베리 요거트", "블루베리드링크"],
+    "category": "주스",
+    "temperature": ["ICE"],
+    "sizes": { "ICE": ["R", "L"] },
+    "price": { "R": 5500, "L": 6100 },
+    "default_size": "R"
+  },
+  {
+    "id": 222,
+    "name": "꿀고구마라떼",
+    "aliases": ["고구마라떼", "고구마", "꿀 고구마"],
+    "category": "논커피",
+    "temperature": ["ICE", "HOT"],
+    "sizes": { "ICE": ["R", "L", "M"], "HOT": ["R", "L"] },
+    "price": { "R": 5800, "L": 6400, "M": 7000 },
+    "default_size": "R"
+  },
+  {
+    "id": 223,
+    "name": "구운밤라떼",
+    "aliases": ["밤라떼", "구운 밤"],
+    "category": "논커피",
+    "temperature": ["ICE", "HOT"],
+    "sizes": { "ICE": ["R", "L", "M"], "HOT": ["R", "L"] },
+    "price": { "R": 5800, "L": 6400, "M": 7000 },
+    "default_size": "R"
+  },
+  {
+    "id": 224,
+    "name": "딸기연유라떼",
+    "aliases": ["딸기연유", "딸기 연유 라떼"],
+    "category": "논커피",
+    "temperature": ["ICE", "HOT"],
+    "sizes": { "ICE": ["R", "L", "M"], "HOT": ["R", "L"] },
+    "price": { "R": 5700, "L": 6300, "M": 6900 },
+    "default_size": "R"
+  },
+  {
+    "id": 225,
+    "name": "딸기요거트라떼",
+    "aliases": ["딸기요거트", "딸기 요거트 라떼"],
+    "category": "논커피",
+    "temperature": ["ICE", "HOT"],
+    "sizes": { "ICE": ["R", "L", "M"], "HOT": ["R", "L"] },
+    "price": { "R": 6200, "L": 6800, "M": 7400 },
+    "default_size": "R"
+  },
+  {
+    "id": 226,
+    "name": "스트로베리초콜릿라떼",
+    "aliases": ["딸기초코", "딸기 초콜릿"],
+    "category": "논커피",
+    "temperature": ["ICE", "HOT"],
+    "sizes": { "ICE": ["R", "L", "M"], "HOT": ["R", "L"] },
+    "price": { "R": 5800, "L": 6400, "M": 7000 },
+    "default_size": "R"
+  },
+  {
+    "id": 227,
+    "name": "현미미숫가루",
+    "aliases": ["미숫가루", "현미 미숫가루"],
+    "category": "논커피",
+    "temperature": ["ICE", "HOT"],
+    "sizes": { "ICE": ["R", "L", "M"], "HOT": ["R", "L"] },
+    "price": { "R": 6200, "L": 6800, "M": 7400 },
+    "default_size": "R"
+  },
+  {
+    "id": 228,
+    "name": "피치아이스티",
+    "aliases": ["피치 아이스티", "복숭아 아이스티"],
+    "category": "음료",
+    "temperature": ["ICE"],
+    "sizes": { "ICE": ["M"] },
+    "price": { "M": 5000 },
+    "default_size": "M"
+  },
+  {
+    "id": 229,
+    "name": "애플아이스티",
+    "aliases": ["애플 아이스티", "사과 아이스티"],
+    "category": "음료",
+    "temperature": ["ICE"],
+    "sizes": { "ICE": ["M"] },
+    "price": { "M": 5000 },
+    "default_size": "M"
+  },
+  {
+    "id": 230,
+    "name": "민트아이스티",
+    "aliases": ["민트 아이스티"],
+    "category": "음료",
+    "temperature": ["ICE"],
+    "sizes": { "ICE": ["M"] },
+    "price": { "M": 5000 },
+    "default_size": "M"
+  }
+]

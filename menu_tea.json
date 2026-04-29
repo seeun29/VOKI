@@ -1,0 +1,132 @@
+[
+  {
+    "id": 301,
+    "name": "말차크림라떼",
+    "aliases": ["말차", "말차라떼", "말차 크림"],
+    "category": "티",
+    "temperature": ["ICE", "HOT"],
+    "sizes": { "ICE": ["R", "L", "M"], "HOT": ["R", "L"] },
+    "price": { "R": 5000, "L": 5600, "M": 6200 },
+    "default_size": "R"
+  },
+  {
+    "id": 302,
+    "name": "그린티라떼",
+    "aliases": ["그린티", "녹차라떼", "녹차"],
+    "category": "티",
+    "temperature": ["ICE", "HOT"],
+    "sizes": { "ICE": ["R", "L", "M"], "HOT": ["R", "L"] },
+    "price": { "R": 5200, "L": 5800, "M": 6400 },
+    "default_size": "R"
+  },
+  {
+    "id": 303,
+    "name": "초콜릿라떼",
+    "aliases": ["초코", "초콜릿", "핫초코", "코코아"],
+    "category": "티",
+    "temperature": ["ICE", "HOT"],
+    "sizes": { "ICE": ["R", "L", "M"], "HOT": ["R", "L"] },
+    "price": { "R": 5600, "L": 6200, "M": 6800 },
+    "default_size": "R"
+  },
+  {
+    "id": 304,
+    "name": "로얄밀크티",
+    "aliases": ["밀크티", "로얄 밀크티"],
+    "category": "티",
+    "temperature": ["ICE", "HOT"],
+    "sizes": { "ICE": ["R", "L", "M"], "HOT": ["R", "L"] },
+    "price": { "R": 5700, "L": 6300, "M": 6900 },
+    "default_size": "R"
+  },
+  {
+    "id": 305,
+    "name": "유자레몬티",
+    "aliases": ["유자티", "유자 레몬"],
+    "category": "티",
+    "temperature": ["ICE", "HOT"],
+    "sizes": { "ICE": ["R", "L", "M"], "HOT": ["R", "L"] },
+    "price": { "R": 5800, "L": 6400, "M": 7000 },
+    "default_size": "R"
+  },
+  {
+    "id": 306,
+    "name": "오렌지자몽티",
+    "aliases": ["자몽티", "오렌지티", "오렌지 자몽"],
+    "category": "티",
+    "temperature": ["ICE", "HOT"],
+    "sizes": { "ICE": ["R", "L", "M"], "HOT": ["R", "L"] },
+    "price": { "R": 6100, "L": 6700, "M": 7300 },
+    "default_size": "R"
+  },
+  {
+    "id": 307,
+    "name": "허니레몬티",
+    "aliases": ["허니레몬", "레몬티", "레몬차"],
+    "category": "티",
+    "temperature": ["ICE", "HOT"],
+    "sizes": { "ICE": ["R"], "HOT": ["R"] },
+    "price": { "R": 6300 },
+    "default_size": "R"
+  },
+  {
+    "id": 308,
+    "name": "애플민트티",
+    "aliases": ["애플민트", "사과민트티"],
+    "category": "티",
+    "temperature": ["ICE", "HOT"],
+    "sizes": { "ICE": ["R"], "HOT": ["R"] },
+    "price": { "R": 6300 },
+    "default_size": "R"
+  },
+  {
+    "id": 309,
+    "name": "프렌치얼그레이",
+    "aliases": ["얼그레이", "프렌치 얼그레이"],
+    "category": "티",
+    "temperature": ["ICE", "HOT"],
+    "sizes": { "ICE": ["L"], "HOT": ["L"] },
+    "price": { "L": 5300 },
+    "default_size": "L"
+  },
+  {
+    "id": 310,
+    "name": "크림카라멜",
+    "aliases": ["크림 카라멜"],
+    "category": "티",
+    "temperature": ["ICE", "HOT"],
+    "sizes": { "ICE": ["L"], "HOT": ["L"] },
+    "price": { "L": 5300 },
+    "default_size": "L"
+  },
+  {
+    "id": 311,
+    "name": "카모마일",
+    "aliases": ["캐모마일", "카모마일 티"],
+    "category": "티",
+    "temperature": ["ICE", "HOT"],
+    "sizes": { "ICE": ["L"], "HOT": ["L"] },
+    "price": { "L": 5300 },
+    "default_size": "L"
+  },
+  {
+    "id": 312,
+    "name": "그나와민트티",
+    "aliases": ["민트티", "그나와 민트", "민트"],
+    "category": "티",
+    "temperature": ["ICE", "HOT"],
+    "sizes": { "ICE": ["L"], "HOT": ["L"] },
+    "price": { "L": 5300 },
+    "default_size": "L"
+  },
+  {
+    "id": 313,
+    "name": "제주유기농녹차",
+    "aliases": ["유기농 녹차", "제주 녹차", "녹차"],
+    "category": "티",
+    "temperature": ["HOT"],
+    "sizes": { "HOT": ["L"] },
+    "price": { "L": 4800 },
+    "default_size": "L"
+  }
+]
